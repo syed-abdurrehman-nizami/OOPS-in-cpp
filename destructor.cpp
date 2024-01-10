@@ -36,7 +36,7 @@ class worker{
         cout<<endl<<"Destructor called";
     }
 
-    printinfo() {
+    void printinfo() {
         cout<<endl;
         cout<<"Name is : "<<name<<endl;
         cout<<"Age is : "<<age<<endl;

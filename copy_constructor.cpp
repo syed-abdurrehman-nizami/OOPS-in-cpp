@@ -31,7 +31,7 @@ class worker{
         salary = a.salary;
     }
 
-    printinfo() {
+    void printinfo() {
         cout<<endl;
         cout<<"Name is : "<<name<<endl;
         cout<<"Age is : "<<age<<endl;
