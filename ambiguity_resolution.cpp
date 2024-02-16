@@ -1,3 +1,7 @@
+// In this program, i make three classes and in first two classes there are two function
+// with same name and when fisrt two classes are inherited by third class then there is 
+// ambiguity occoured, i can resolve the abiguity which is called abiguity resolution.
+
 #include<iostream>
 using namespace std;
 class first {
