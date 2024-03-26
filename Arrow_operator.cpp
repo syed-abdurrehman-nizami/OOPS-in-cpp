@@ -58,6 +58,7 @@ int main()
     for (int i = 0; i < size; i++)
     {
         o4tem->getdata();
+        cout << "Address of this object is : " << o4tem << endl;
         o4tem++;
     }
 
